@@ -12,19 +12,19 @@ Getting this to run on your local machine:
 
 BOOK PERCENTAGES
 
-what percentage of word count does book A share with book B?
+What percentage of word count does book A share with book B?
 
-number of (UNIQUE) words book A shares with book B / total word count (EXCLUDING repeat words) of 			book A
+Number of unique words Book A shares with Book B / total word count (EXCLUDING repeat words) of Book A
 
-how to deal with repeat words?
+How to deal with repeat words?
 
-if book A has: whatever whatever whatever whatever bubble
+If Book A has: whatever whatever whatever whatever bubble
 
-if book B has: whatever spoon
+If Book B has: whatever spoon
 
 
 
-then do books A and B have 50% in common, even though 'whatever' comprises 80% of book A by word count and 50% ob book B by word count? 
+Then do Books A and B have 50% in common, even though 'whatever' comprises 80% of book A by word count and 50% of book B by word count? 
 
 Maybe we should collapse word repetition to begin with. That's probably a good idea because books contain a lot of word repetition.
 
