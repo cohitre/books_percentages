@@ -14,7 +14,7 @@ BOOK PERCENTAGES
 
 What percentage of word count does book A share with book B?
 
-Number of unique words Book A shares with Book B / total word count (EXCLUDING repeat words) of Book A
+Number of unique words Book A shares with Book B / total word count (EXCLUDING repeat words) of Book A.
 
 How to deal with repeat words?
 
